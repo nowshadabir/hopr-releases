@@ -6,6 +6,20 @@
     <description>Updates for Hopr</description>
     <language>en</language>
     <item>
+      <title>Hopr 1.4.5</title>
+      <pubDate>Wed, 25 Nov 2026 21:35:20 GMT</pubDate>
+      <description>&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; font-size: 13px; line-height: 1.55; color: #1c1e1c;"&gt;
+  &lt;h3 style="margin: 0 0 8px; font-size: 15px; color: #0e5a46;"&gt;What's New in Hopr 1.4.5&lt;/h3&gt;
+  &lt;ul style="margin: 0; padding-left: 18px;"&gt;
+      &lt;li&gt;v1.4.5: release macOS and Windows builds&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</description>
+      <sparkle:version>10405</sparkle:version>
+      <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/nowshadabir/hopr-releases/releases/download/v1.4.5/Hopr-1.4.5.dmg" sparkle:edSignature="ED+2JMZLts3rjmymRDsqf6cGxowuORETyVe5FG9/8V0uk4kPeJ/ncVAKdiqj4bXxQiJNKf0dA24Xo4CE+ynXBw==" length="4266174" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Hopr 1.4.4</title>
       <pubDate>Wed, 25 Nov 2026 19:30:08 GMT</pubDate>
       <description>&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; font-size: 13px; line-height: 1.55; color: #1c1e1c;"&gt;
