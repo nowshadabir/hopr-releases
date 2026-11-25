@@ -6,6 +6,15 @@
     <description>Updates for Hopr</description>
     <language>en</language>
     <item>
+      <title>Hopr 1.2.1</title>
+      <pubDate>Wed, 25 Nov 2026 11:16:56 GMT</pubDate>
+      <sparkle:version>10201</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/nowshadabir/hopr-releases/releases/tag/v1.2.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/nowshadabir/hopr-releases/releases/download/v1.2.1/Hopr-1.2.1.dmg" sparkle:edSignature="TqeCJcnhxL9oosOKxggz+u2e+AI2DfNHK2xaK5Zi2zM6+n2OE20TtK0IrXAutvwkngddijBYsRrPPxZN4K9ODA==" length="2950766" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Hopr 1.2.0</title>
       <pubDate>Wed, 25 Nov 2026 11:10:36 GMT</pubDate>
       <sparkle:version>10200</sparkle:version>
