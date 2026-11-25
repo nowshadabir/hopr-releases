@@ -6,6 +6,20 @@
     <description>Updates for Hopr</description>
     <language>en</language>
     <item>
+      <title>Hopr 1.4.0</title>
+      <pubDate>Wed, 25 Nov 2026 14:23:07 GMT</pubDate>
+      <description>&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; font-size: 13px; line-height: 1.55; color: #1c1e1c;"&gt;
+  &lt;h3 style="margin: 0 0 8px; font-size: 15px; color: #0e5a46;"&gt;What's New in Hopr 1.4.0&lt;/h3&gt;
+  &lt;ul style="margin: 0; padding-left: 18px;"&gt;
+      &lt;li&gt;Hopr 1.4.0&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</description>
+      <sparkle:version>10400</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/nowshadabir/hopr-releases/releases/download/v1.4.0/Hopr-1.4.0.dmg" sparkle:edSignature="YtpWXOINg+BkaneFucICxuIBqkMBqOV/9+hKyPXQ4/zuoR+2YiWgzdqMsQi6PieIUp4GL/kAANiVn0XHC4zzCg==" length="2970391" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Hopr 1.3.0</title>
       <pubDate>Wed, 25 Nov 2026 13:15:04 GMT</pubDate>
       <sparkle:version>10300</sparkle:version>
