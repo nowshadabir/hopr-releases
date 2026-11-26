@@ -6,6 +6,20 @@
     <description>Updates for Hopr</description>
     <language>en</language>
     <item>
+      <title>Hopr 1.4.7</title>
+      <pubDate>Thu, 26 Nov 2026 15:21:53 GMT</pubDate>
+      <description>&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; font-size: 13px; line-height: 1.55; color: #1c1e1c;"&gt;
+  &lt;h3 style="margin: 0 0 8px; font-size: 15px; color: #0e5a46;"&gt;What's New in Hopr 1.4.7&lt;/h3&gt;
+  &lt;ul style="margin: 0; padding-left: 18px;"&gt;
+      &lt;li&gt;v1.4.7: fix Windows sidebar_ready, UI WebContext, window icon, and NSIS upgrade&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</description>
+      <sparkle:version>10407</sparkle:version>
+      <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/nowshadabir/hopr-releases/releases/download/v1.4.7/Hopr-1.4.7.dmg" sparkle:edSignature="KBzEV5YHMmC1/PLWOq54PSPkMgOYx6DaJWwudxdUB6lLqvpOdGg6FbVSKEcjaPhFooo+xhl2bsiujvXtAf0NAQ==" length="4271455" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Hopr 1.4.6</title>
       <pubDate>Thu, 26 Nov 2026 15:03:42 GMT</pubDate>
       <description>&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; font-size: 13px; line-height: 1.55; color: #1c1e1c;"&gt;
