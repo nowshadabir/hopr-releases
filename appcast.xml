@@ -6,6 +6,20 @@
     <description>Updates for Hopr</description>
     <language>en</language>
     <item>
+      <title>Hopr 1.4.6</title>
+      <pubDate>Thu, 26 Nov 2026 15:03:42 GMT</pubDate>
+      <description>&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; font-size: 13px; line-height: 1.55; color: #1c1e1c;"&gt;
+  &lt;h3 style="margin: 0 0 8px; font-size: 15px; color: #0e5a46;"&gt;What's New in Hopr 1.4.6&lt;/h3&gt;
+  &lt;ul style="margin: 0; padding-left: 18px;"&gt;
+      &lt;li&gt;v1.4.6: fix Windows IPC, Close Window menu, and WebView2 memory usage&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</description>
+      <sparkle:version>10406</sparkle:version>
+      <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/nowshadabir/hopr-releases/releases/download/v1.4.6/Hopr-1.4.6.dmg" sparkle:edSignature="PN3XAthIoTjcNldlHdT6qkjn5PI8TNrVzkg4zwcuW3l4brGe+VZRVe4LWZgXLKY8x3hr0AnPIV4HESb9SmWYCQ==" length="4268388" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Hopr 1.4.5</title>
       <pubDate>Wed, 25 Nov 2026 21:35:20 GMT</pubDate>
       <description>&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; font-size: 13px; line-height: 1.55; color: #1c1e1c;"&gt;
